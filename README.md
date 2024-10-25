@@ -41,6 +41,9 @@ The analysis will delve into key metrics like churn rate, customer demographics,
 
 •  Churn Reasons: The most common reasons for churn are competition (761 customers), attitude (301 customers), and dissatisfaction (300 customers).
 
+## Machine Learning
+![Machine Learning Overview](https://github.com/lavenya200399/Churn-analysis/blob/main/ml%20.png)
+
 ## Recommendations :
 
 •	Target High-Churn Segments: Focus on improving retention for male customers, younger age groups, and customers in Jammu.
